@@ -1,0 +1,8 @@
+numpy
+pandas
+pathlib
+re
+spacy
+displacy
+es_core_news_md
+
